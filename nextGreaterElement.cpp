@@ -1,4 +1,4 @@
-//next greater element in an array
+//next greater element in an array 
 
 #include<bits/stdc++.h>
 vector<int> nextGreaterElement(vector<int>& arr, int n)
